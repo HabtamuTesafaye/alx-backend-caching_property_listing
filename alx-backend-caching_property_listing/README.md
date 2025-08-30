@@ -47,7 +47,7 @@ alx\_backend\_caching\_property\_listings/
 1. **Clone the repository:**
 ```bash
 git clone <repo-url>
-cd alx_backend_caching_property_listings
+cd  alx-backend-caching_property_listings
 ````
 
 2. **Create and activate a virtual environment:**
